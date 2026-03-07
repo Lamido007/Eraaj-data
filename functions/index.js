@@ -1,4 +1,4 @@
-const functions = require("firebase-functions");
+requireunctions = require("firebase-functions");
 const admin = require("firebase-admin");
 const fetch = require("node-fetch");
 
